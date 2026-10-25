@@ -1,0 +1,8 @@
+body{margin:0;background:#070b1d;color:#e8ecf3;font-family:-apple-system,Helvetica,Arial,sans-serif;line-height:1.6}
+main{max-width:760px;margin:0 auto;padding:48px 24px}
+h1{font-family:Georgia,serif;color:#ffc85a;font-size:44px;margin:0 0 4px}
+h2{font-family:Georgia,serif;color:#ffc85a;margin-top:36px}
+.tag{color:#9fb0cf;font-size:20px;margin-bottom:28px}
+a{color:#ffc85a}
+.links a{display:inline-block;margin:6px 10px 6px 0;padding:10px 16px;border:1px solid #ffc85a;border-radius:24px;text-decoration:none}
+footer{margin-top:48px;color:#7d8aa6;font-size:14px}
