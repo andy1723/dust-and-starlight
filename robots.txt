@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andy1723.github.io/dust-and-starlight/sitemap.xml
